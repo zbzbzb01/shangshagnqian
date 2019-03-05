@@ -1,4 +1,3 @@
-###yes###
----http://www.sina.com---
+yes www.sina.com
 
 
